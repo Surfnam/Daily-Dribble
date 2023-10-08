@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    color: #121212;
+}
+
+p {
+    font-style: italic;
+}
+
+img {
+    width: 380px;
+    border: 3px solid #121212;
+    margin: 0px;
+}
+
+input {
+    width: 200px;
+    padding: 8px 10px;
+    text-align: center;
+    font-weight: bold;
+    border: 3px solid #121212;
+    margin: 10px 0;
+}
+
+button {
+    width: 226px;
+    padding: 8px 10px;
+    background: #121212;
+    color: white;
+    font-weight: bold;
+    border: 3px solid #121212;
+}
